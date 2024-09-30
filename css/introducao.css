@@ -1,3 +1,7 @@
+main p {
+  color: blue;
+}
+
 .introducao {
   max-width: 1200px;
   padding: 40px 20px;
