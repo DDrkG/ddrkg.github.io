@@ -17,6 +17,7 @@ main p {
   line-height: 1.125;
   margin-bottom: 30px;
   position: relative;
+  color: blue;
 }
 
 .introducao h1::before {
